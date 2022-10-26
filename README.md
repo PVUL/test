@@ -40,3 +40,4 @@ If you want additioanl debugger controls available to you in the status bar, che
 #### Credits
 
 - [The Microsoft Edge Dev Tools extension for VS Code is so awesome that I’m ditching Chrome for web development by Matt Callahan](https://mfcallahan.blog/2022/08/26/the-microsoft-edge-dev-tools-extension-for-vs-code-is-so-awesome-that-im-ditching-chrome-for-web-development/)
+- [VS Code Has Dev Tools & Console!! No Need For Chrome Anymore by codeSTACKr - YouTube](https://www.youtube.com/watch?v=vHZPeohPHqo)
