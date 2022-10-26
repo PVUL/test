@@ -1,6 +1,6 @@
 # test
 
-This is a repo for testing basic javascript similar to [codepen](https://codepen.io/pen), but in a local dev environment.
+This is a repo for testing basic javascript similar to [codepen](https://codepen.io/pen), but in a local dev environment, all in VS Code IDE.
 
 ![](https://learn.microsoft.com/en-us/microsoft-edge/visual-studio-code/microsoft-edge-devtools-extension-images/devtools-extension-v211.png)
 
