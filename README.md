@@ -35,6 +35,10 @@ If you want additioanl debugger controls available to you in the status bar, che
 
 ![](https://seesharpdotnet.files.wordpress.com/2022/08/vscode_edge_53.png)
 
+3. Prevent browser from opening when starting Live Server
+
+If you don't want the Edge Browser to open separately (since it's going to open an instance inside of VS Code anyway), go to `File > Settings > Extensions > Live Server > Settings: No Browser` and check the box. If checked it will start without browser opened.
+
 ---
 
 #### Credits
